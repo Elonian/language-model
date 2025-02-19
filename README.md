@@ -1,3 +1,7 @@
 # language-model
 
-## Advanced NLP CS 11-711
+## NLP CS 11-711
+
+----------------------------------------------
+
+### Lecture - 1 
